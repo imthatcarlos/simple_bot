@@ -1,25 +1,16 @@
-# README
+# A Simple Bot
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Built using the facebook-messenger gem. https://github.com/hyperoslo/facebook-messenger
 
-Things you may want to cover:
+## Rails 5
 
-* Ruby version
+## Install
 
-* System dependencies
+```
+git clone git@github.com:imthatcarlos/simple_bot.git
+cd simple_bot
+bundle install
+bundle exec rake db:create
+```
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# simple_bot
+Check out my post on Medium to set up your Facebook App.
