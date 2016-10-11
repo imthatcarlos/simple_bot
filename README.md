@@ -1,8 +1,6 @@
-# A Simple Bot
+# A Simple Bot With Rails 5
 
 Built using the facebook-messenger gem. https://github.com/hyperoslo/facebook-messenger
-
-## Rails 5
 
 ## Install
 
