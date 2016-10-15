@@ -12,3 +12,4 @@ bundle exec rake db:create
 ```
 
 Check out my post on Medium to set up your Facebook App.
+https://medium.com/@carlosbeltran/create-a-facebook-messenger-bot-with-ruby-on-rails-4ffd8b851135#.ktn64zfpd
